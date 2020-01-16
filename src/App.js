@@ -1,26 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { createGlobalStyle } from 'styled-components';
+import Quiz from './components/Quiz';
+import Store from './store';
+import { backGround, white } from './styles/colors';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const GlobalStyle = createGlobalStyle`
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+* {
+  font-family: 'Open Sans', sans-serif;
 }
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  margin: 0;
+  background-color: ${backGround};
+  color: ${white}; 
+}
+`;
+
+const App = () => {
+  return (
+    <>
+      <GlobalStyle />
+      <Store>
+        <Quiz />
+      </Store>
+    </>
+  );
+};
 
 export default App;

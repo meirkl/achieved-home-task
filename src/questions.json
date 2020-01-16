@@ -1,0 +1,212 @@
+[
+    {
+        "question": "Which city is the capital of England",
+        "answers": [
+            {
+                "text": "Sheffield",
+                "correct": false
+            },
+            {
+                "text": "London",
+                "correct": true
+            },
+            {
+                "text": "Manchester",
+                "correct": false
+            },
+            {
+                "text": "Edinburgh",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of Italy",
+        "answers": [
+            {
+                "text": "Rome",
+                "correct": true
+            },
+            {
+                "text": "Naples",
+                "correct": false
+            },
+            {
+                "text": "Pisa",
+                "correct": false
+            },
+            {
+                "text": "Madrid",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of The Netherlands",
+        "answers": [
+            {
+                "text": "The Hague",
+                "correct": false
+            },
+            {
+                "text": "Rotterdam",
+                "correct": false
+            },
+            {
+                "text": "Copenhagen",
+                "correct": false
+            },
+            {
+                "text": "Amsterdam",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of The Indonesia",
+        "answers": [
+            {
+                "text": "Manila",
+                "correct": false
+            },
+            {
+                "text": "Semarang",
+                "correct": false
+            },
+            {
+                "text": "Jakarta",
+                "correct": true
+            },
+            {
+                "text": "Kuala Lumpur",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of Israel",
+        "answers": [
+            {
+                "text": "Tel Aviv",
+                "correct": false
+            },
+            {
+                "text": "Jerusalem",
+                "correct": true
+            },
+            {
+                "text": "Haifa",
+                "correct": false
+            },
+            {
+                "text": "Be'er Sheva",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of Thailand",
+        "answers": [
+            {
+                "text": "Kuala Lumpur",
+                "correct": false
+            },
+            {
+                "text": "Vientiane",
+                "correct": false
+            },
+            {
+                "text": "Bangkok",
+                "correct": true
+            },
+            {
+                "text": "Naypyidaw",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of India",
+        "answers": [
+            {
+                "text": "New Delhi",
+                "correct": true
+            },
+            {
+                "text": "Madras",
+                "correct": false
+            },
+            {
+                "text": "Calcutta",
+                "correct": false
+            },
+            {
+                "text": "Bombay",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of Spain",
+        "answers": [
+            {
+                "text": "Lisbon",
+                "correct": false
+            },
+            {
+                "text": "Valencia",
+                "correct": false
+            },
+            {
+                "text": "Madrid",
+                "correct": true
+            },
+            {
+                "text": "Barcelona",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of Canada",
+        "answers": [
+            {
+                "text": "Montreal",
+                "correct": false
+            },
+            {
+                "text": "Vancouver",
+                "correct": false
+            },
+            {
+                "text": "Ottawa",
+                "correct": true
+            },
+            {
+                "text": "Toronto",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which city is the capital of Argentina",
+        "answers": [
+            {
+                "text": "Buenos Aires",
+                "correct": true
+            },
+            {
+                "text": "Montevideo",
+                "correct": false
+            },
+            {
+                "text": "La Paza",
+                "correct": false
+            },
+            {
+                "text": "Santiago",
+                "correct": false
+            }
+        ]
+    }
+]
